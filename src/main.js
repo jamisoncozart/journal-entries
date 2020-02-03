@@ -6,5 +6,5 @@ $(document).ready(function() {
     event.preventDefault();
     var prompt1 = new Journal ($("#title").val(), $("#body").val());
     console.log(prompt1);
-  })
-})
+  });
+});

@@ -1,0 +1,15 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "webpack and npm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Thom and Jamison Cozart",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
